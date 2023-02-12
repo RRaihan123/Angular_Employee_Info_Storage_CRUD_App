@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Raihan",
+      "lastName": "Rony",
+      "email": "raihanrony@gmail.com",
+      "mobile": "01777777777",
+      "salary": "N/A"
+    },
+    {
+      "id": 2,
+      "firstName": "Rony",
+      "lastName": "Raihan",
+      "email": "ronyraihan@gmail.com",
+      "mobile": "01777777777",
+      "salary": "N/A"
+    },
+    {
+      "id": 3,
+      "firstName": "Raihanul",
+      "lastName": "Haque",
+      "email": "raihanulhaque@gmail.com",
+      "mobile": "01999999999",
+      "salary": "N/A"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
